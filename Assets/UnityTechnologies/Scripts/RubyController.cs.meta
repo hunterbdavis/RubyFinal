@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7be5c9220d0d0504591c18793dd6ad18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - respawnPosition: {instanceID: 0}
+  - hitParticle: {instanceID: 0}
+  - healParticle: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - shootingSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
